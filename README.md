@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skillsss: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
