@@ -5,8 +5,7 @@
 ## Education	        		
 - B.S., Computer Science | OntarioTech University (September 2022 - Present)
 
-##
-##
+
 
 ## Work Experience
 **Research Assistant (June 2023 - August 2023)**
@@ -16,14 +15,12 @@
 - Read and understood high level academic research papers.
 - Participated in daily updating sessions and collaborated with others to finish a range of assignments.
 
-##  
-## 
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Exploratory data analysis with various python libraries
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+In this experiment the relation between habits, circumsatnces, and marks of high school students were studied using the essential steps of the data science workflow. An exploratory analysis proved that study time, going out, internet access, and free time were related to grades. Which was agianist the hypothesis, which stated alcohol, romantic relationship, family support, and extra paid classes would have a relationship. the results showed that studnets who had a lot of free time and no internet access failed the least and students who had low free time and access to internet failed the most. Additionally, students who studied more and went out less failed less and students who studied less and went out often failed more. These outcomes suggest that the biggest distactions for studenst are the internet and going out with freinds. And freeing up time for studying will yield better results.  
 
 
 
