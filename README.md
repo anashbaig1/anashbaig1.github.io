@@ -1,9 +1,12 @@
 # Computer Science Student
 
-#### Technical Skillsss: Python, java, c++, Jupyter Notebook, Pandas, NumPy, Seaborn, SciKit-Learn, and MatplotLib.
+#### Technical Skills: Python, java, c++, Jupyter Notebook, Pandas, NumPy, Seaborn, SciKit-Learn, and MatplotLib.
 
 ## Education	        		
 - B.S., Computer Science | OntarioTech University (September 2022 - Present)
+
+##
+##
 
 ## Work Experience
 **Research Assistant (June 2023 - August 2023)**
@@ -13,7 +16,8 @@
 - Read and understood high level academic research papers.
 - Participated in daily updating sessions and collaborated with others to finish a range of assignments.
 
-
+##  
+## 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
